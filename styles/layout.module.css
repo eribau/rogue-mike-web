@@ -1,13 +1,23 @@
 .container {
-  max-width: 36rem;
-  padding: 0 1rem;
-  margin: 3rem auto 6rem;
+
 }
 
 .header {
+  width: 100%;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
+  background: #262422;
+  box-shadow: 0 5px 5px rgba(0, 0, 0, 0.25);
+}
+
+.menuItem {
+  margin: auto 3rem;
+  padding:
+}
+
+.menuItem a:hover {
+  color: #b7b7b7;
 }
 
 .backToHome {
