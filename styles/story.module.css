@@ -1,0 +1,19 @@
+.container {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.section {
+  width: 60%;
+  height: 610px
+  margin: 5rem 20%;
+  padding: 2rem;
+  align-content: center;
+  background: #2B2B2B;
+  border: 10px solid #FFFFFF;
+  border-radius: 50px;
+}
+
+.article {
+}

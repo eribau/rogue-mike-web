@@ -4,7 +4,7 @@ import styles from '../styles/layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 
 const pages = {
-                Home: "/",
+                Start: "/",
                 Story: "/story",
                 Features: "/features",
                 Team: "/team",
