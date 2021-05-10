@@ -11,6 +11,15 @@
   line-height: 1.4;
 }
 
+.bodyMd {
+  font-size: 1.2rem;
+}
+
+.bodyMdBold {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
 .lightText {
   color: #ffffff;
 }
