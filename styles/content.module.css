@@ -6,6 +6,34 @@
 
 .content {
   width: 64rem;
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 1100px) {
+  .content {
+    width: 52rem;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 760px) {
+  .content {
+    width: 42rem;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .content {
+    width: 25rem;
+    font-size: 0.8rem;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .content {
+    width: 25rem;
+  }
 }
 
 .video {

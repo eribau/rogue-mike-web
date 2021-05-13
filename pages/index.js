@@ -7,6 +7,7 @@ export default function Home() {
     <Layout>
       <Head>
         <title>Rogue Mike</title>
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="description" content="Webpage for the game Rogue Mike" />
       </Head>
       <section>
