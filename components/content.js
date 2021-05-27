@@ -97,8 +97,16 @@ export default function Content() {
               <p className={utilStyles.bodyMdBold}>Carl Johan Freme</p>
             </div>
             <div className={styles.column}>
+              <div className={styles.image}>
+                <Image
+                  src='/images/filipPic.png'
+                  height={192}
+                  width={144}
+                  alt='filip'
+                />
+              </div>
               <p className={utilStyles.bodyMdBold}>Filip Berendt</p>
-              <p>Game Designer</br>Game Programmer</br>Audio Engineer</br>Market Researcher</p>
+              <p>Game Designer<br/>Game Programmer<br/>Audio Engineer<br/>Market Researcher</p>
             </div>
             <div className={styles.column}>
               <p className={utilStyles.bodyMdBold}>Anders Steen</p>
