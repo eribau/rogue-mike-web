@@ -110,7 +110,7 @@ export default function Content() {
             <div className={styles.column}>
               <div className={styles.image}>
                 <Image
-                  src='/images/andersPic.png'
+                  src='/images/andersPic.jpeg'
                   height={272}
                   width={204}
                   alt='anders'
