@@ -2,7 +2,6 @@ import Image from 'next/image'
 import styles from '../styles/content.module.css'
 import utilStyles from '../styles/utils.module.css'
 
-
 // <iframe
 //   width="640"
 //   height="360"
