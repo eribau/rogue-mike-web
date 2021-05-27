@@ -99,8 +99,8 @@ export default function Content() {
               <div className={styles.image}>
                 <Image
                   src='/images/filipPic.png'
-                  height={192}
-                  width={144}
+                  height={272}
+                  width={204}
                   alt='filip'
                 />
               </div>
