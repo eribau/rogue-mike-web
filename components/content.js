@@ -98,6 +98,10 @@ export default function Content() {
             </div>
             <div className={styles.column}>
               <p className={utilStyles.bodyMdBold}>Filip Berendt</p>
+              <p>Game Designer</p>
+              <p>Game Programmer</p>
+              <p>Audio Engineer</p>
+              <p>Market Researcher</p>
             </div>
             <div className={styles.column}>
               <p className={utilStyles.bodyMdBold}>Anders Steen</p>
