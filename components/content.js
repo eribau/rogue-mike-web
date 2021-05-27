@@ -35,8 +35,8 @@ export default function Content() {
         <section>
           <div className={styles.video}>
             <iframe
-               width="640"
-               height="360"
+               width="1024"
+               height="576"
                src="/images/RogueMikeTrailer.mp4"
                title="Gameplay video"
                frameBorder="0"
