@@ -30,7 +30,8 @@ export default function Content() {
         </header>
         <section>
           <p className={utilStyles.bodyMd}>Meet Mike the expert burglar. He&apos;s on a mission to steal The Heart of the Mountain, a unique and priceless gem, with which he hope to retire.
-          It is currently being kept under strict guard in a military-grade compound inside a mountain. Sneak your way in, get the gem, and make your way out again.</p>
+          It is currently being kept under strict guard in a military-grade compound inside a mountain. Sneak your way in, get the gem, and make your way out again.
+          You can try out our demo by downloading it <a href='https://drive.google.com/drive/folders/1NmUDG3Tjxl5E2ixKlkMgF8vTNvftMM7C?usp=sharing'>here</a>. Just extract the files somewhere and run the executable.</p>
         </section>
         <section>
           <div className={styles.video}>
