@@ -108,7 +108,16 @@ export default function Content() {
               <p>Game Designer<br/>Game Programmer<br/>Audio Engineer<br/>Market Researcher</p>
             </div>
             <div className={styles.column}>
+              <div className={styles.image}>
+                <Image
+                  src='/images/andersPic.png'
+                  height={272}
+                  width={204}
+                  alt='anders'
+                />
+              </div>
               <p className={utilStyles.bodyMdBold}>Anders Steen</p>
+              <p>Art Director<br/>Game Designer<br/>Game Programmer<br/>UX Designer</p>
             </div>
             <div className={styles.column}>
               <p className={utilStyles.bodyMdBold}>Sruti Bhattacharjee</p>
