@@ -133,7 +133,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Erik Bauer</p>
-              <p><br/>Game Designer<br/>Game Programmer<br/>Web programmer<br/>Market Researcher</p>
+              <p>Game Designer<br/>Game Programmer<br/>Web programmer<br/>Market Researcher</p>
             </div>
           </div>
         </section>
