@@ -34,12 +34,21 @@ export default function Content() {
         </section>
         <section>
           <div className={styles.video}>
-            <Image
+            <iframe
+               width="640"
+               height="360"
+               src="https://www.youtube.com/embed/yLX9UV5NhOU"
+               title="Gameplay video"
+               frameBorder="0"
+               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+               allowFullScreen>
+            </iframe>
+            <!--<Image
               src='/images/video_placeholder.jpg'
               height='360'
               width='640'
               alt='video placeholder'
-              />
+              />-->
             </div>
         </section>
         <header id="features">
