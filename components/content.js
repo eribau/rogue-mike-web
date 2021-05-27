@@ -43,12 +43,6 @@ export default function Content() {
                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                allowFullScreen>
             </iframe>
-            <!--<Image
-              src='/images/video_placeholder.jpg'
-              height='360'
-              width='640'
-              alt='video placeholder'
-              />-->
             </div>
         </section>
         <header id="features">
