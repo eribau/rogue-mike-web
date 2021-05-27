@@ -40,8 +40,6 @@
   object-fit: contain;
   margin: 3rem 0;
   text-align: center;
-  border: solid;
-  border-width: thick;
 }
 
 .row {
