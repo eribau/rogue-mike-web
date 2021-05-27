@@ -30,7 +30,7 @@ export default function Content() {
         </header>
         <section>
           <p className={utilStyles.bodyMd}>Meet Mike the expert burglar. He&apos;s on a mission to steal The Heart of the Mountain, a unique and priceless gem, with which he hope to retire.
-          It is currently being kept under strict guard in a military-grade compound inside a mountain. Sneak your way in, get the gem and make your way out again.</p>
+          It is currently being kept under strict guard in a military-grade compound inside a mountain. Sneak your way in, get the gem, and make your way out again.</p>
         </section>
         <section>
           <div className={styles.video}>
@@ -55,7 +55,7 @@ export default function Content() {
               <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Sneak your way</span> past guards and security systems without getting detected.</p>
             </div>
             <div className={styles.column}>
-              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Pick up items</span> to bost your abilities or gain new traits to better make your way towards the gem.</p>
+              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Pick up items</span> to boost your abilities or gain new traits to better make your way towards the gem.</p>
             </div>
           </div>
           <div className={styles.row}>
@@ -82,10 +82,10 @@ export default function Content() {
           </div>
           <div className={styles.row}>
             <div className={styles.column}>
-              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Permadeath:</span> if you get caught by the guards too many times you will lose all progress</p>
+              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Permadeath:</span> if you get caught by the guards too many times you will lose all progress.</p>
             </div>
             <div className={styles.column}>
-              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Procedurally generated levels</span> means that each level will be unique.</p>
+              <p className={utilStyles.bodyMd}><span className={utilStyles.bodyMdBold}>Procedurally generated levels</span> means that each playthrough will be a unique experience.</p>
             </div>
           </div>
         </section>
