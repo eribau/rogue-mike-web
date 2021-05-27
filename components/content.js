@@ -85,7 +85,16 @@ export default function Content() {
         <section className={styles.team}>
           <div className={styles.row}>
             <div className={styles.column}>
+              <div className={styles.image}>
+                <Image
+                  src='/images/callePic.png'
+                  height={272}
+                  width={204}
+                  alt='calle'
+                />
+              </div>
               <p className={utilStyles.bodyMdBold}>Carl Johan Freme</p>
+              <p>Game Designer<br/>Game Programmer<br/>Audio Engineer<br/>Market Researcher</p>
             </div>
             <div className={styles.column}>
               <div className={styles.image}>
@@ -124,7 +133,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Erik Bauer</p>
-              <p><br/>Game Designer<br/>Game Programmer<br/>Web programmer</p>
+              <p><br/>Game Designer<br/>Game Programmer<br/>Web programmer<br/>Market Researcher</p>
             </div>
           </div>
         </section>
