@@ -2,16 +2,6 @@ import Image from 'next/image'
 import styles from '../styles/content.module.css'
 import utilStyles from '../styles/utils.module.css'
 
-// <iframe
-//   width="640"
-//   height="360"
-//   src="https://www.youtube.com/embed/yLX9UV5NhOU"
-//   title="Gameplay video"
-//   frameBorder="0"
-//   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-//   allowFullScreen>
-// </iframe>
-
 export default function Content() {
   return (
     <div className={styles.container}>
@@ -125,7 +115,16 @@ export default function Content() {
               <p className={utilStyles.bodyMdBold}>Sruti Bhattacharjee</p>
             </div>
             <div className={styles.column}>
+              <div className={styles.image}>
+                <Image
+                  src='/images/erikPic.jpg'
+                  height={272}
+                  width={204}
+                  alt='erik'
+                  />
+              </div>
               <p className={utilStyles.bodyMdBold}>Erik Bauer</p>
+              <p><br/>Game Designer<br/>Game Programmer<br/>Web programmer</p>
             </div>
           </div>
         </section>
