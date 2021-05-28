@@ -79,3 +79,23 @@
 .image {
   text-align: center;
 }
+
+.downloadButton {
+  width: 10em;
+  height: 2em;
+  display: flex;
+  align-items: center;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 1em;
+  background-color: #2B2B2B;
+  color: white
+}
+
+.downloadButton:hover {
+  background-color: #e70e72;
+}
+
+.downloadButton a {
+  margin: 0 auto;
+}
