@@ -133,7 +133,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Sruti Bhattacharjee</p>
-              <p><i>email@email.com</i></p>
+              <p><i>srutib@kth.se</i></p>
               <p>Storyteller<br/>UX researcher<br/>Market Researcher<br/>Game Tester</p>
             </div>
             <div className={styles.column}>
