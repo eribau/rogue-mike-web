@@ -123,7 +123,7 @@ export default function Content() {
             <div className={styles.column}>
               <div className={styles.image}>
                 <Image
-                  src='/images/profile.jpeg'
+                  src='/images/profile.jpg'
                   height={272}
                   width={204}
                   alt='sruti'
