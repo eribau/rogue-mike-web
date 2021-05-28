@@ -130,7 +130,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Sruti Bhattacharjee</p>
-              <p>UX researcher<br/>Market Researcher<br/>Game Testing</p>
+              <p>Storyteller<br/>UX researcher<br/>Market Researcher<br/>Game Tester</p>
             </div>
             <div className={styles.column}>
               <div className={styles.image}>
