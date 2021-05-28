@@ -94,6 +94,7 @@ export default function Content() {
                 />
               </div>
               <p className={utilStyles.bodyMdBold}>Carl Johan Freme</p>
+              <p><i>cj.freme@gmail.com</i></p>
               <p>Project Manager<br/>Game Programmer<br/>Game Designer<br/>Audio Engineer</p>
             </div>
             <div className={styles.column}>
@@ -106,6 +107,7 @@ export default function Content() {
                 />
               </div>
               <p className={utilStyles.bodyMdBold}>Filip Berendt</p>
+              <p><i>filipberendt11@gmail.com</i></p>
               <p>Game Designer<br/>Game Programmer<br/>Audio Engineer<br/>Market Researcher</p>
             </div>
             <div className={styles.column}>
@@ -118,6 +120,7 @@ export default function Content() {
                 />
               </div>
               <p className={utilStyles.bodyMdBold}>Anders Steen</p>
+              <p><i>anders.steen98@gmail.com</i></p>
               <p>Art Director<br/>Game Designer<br/>Game Programmer<br/>UX Designer</p>
             </div>
             <div className={styles.column}>
@@ -130,6 +133,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Sruti Bhattacharjee</p>
+              <p><i>email@email.com</i></p>
               <p>Storyteller<br/>UX researcher<br/>Market Researcher<br/>Game Tester</p>
             </div>
             <div className={styles.column}>
@@ -142,6 +146,7 @@ export default function Content() {
                   />
               </div>
               <p className={utilStyles.bodyMdBold}>Erik Bauer</p>
+              <p><i>erik_bauer@hotmail.com</i></p>
               <p>Game Designer<br/>Game Programmer<br/>Web programmer<br/>Market Researcher</p>
             </div>
           </div>
