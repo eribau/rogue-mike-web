@@ -18,10 +18,10 @@ export default function Content() {
       <div className={styles.content}>
         <div className={styles.image}>
           <Image
-            src='/images/rogue_mountain_2.png'
-            height='141'
+            src='/images/Logo.png'
+            height='250'
             width='250'
-            alt='A mountain'
+            alt='Mike Logo'
             />
           </div>
         <header id="rogueMike">
