@@ -9,8 +9,8 @@ export default function Content() {
         <div className={styles.image}>
           <Image
             src='/images/Logo.png'
-            height='250'
-            width='250'
+            height='512'
+            width='512'
             alt='Mike Logo'
             />
           </div>
